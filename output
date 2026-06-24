@@ -1,0 +1,1 @@
+vless://41ad07ce-835e-4f82-bd82-07a1d084f201@{Domain}:443?encryption=none&security=tls&type=ws&host={Domain} &path=%2fchat&sni={Domain}#Back4App_{PJ_Name}
